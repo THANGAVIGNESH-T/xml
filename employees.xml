@@ -1,0 +1,16 @@
+<employee>
+    <personalinfo>
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <dateofbirth>2023-08-22</dateofbirth>
+        <gender>Male</gender>
+    </personalinfo>
+    <empinfo>
+        <position>Software Engineer</position>
+        <salary>100000</salary>
+    </empinfo>
+    <contact>
+        <email>john.doe@example.com</email>
+        <phonenumber>123-456-7890</phonenumber>
+    </contact>
+</employee>
